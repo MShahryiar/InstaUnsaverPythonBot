@@ -9,6 +9,3 @@ The rest this bot will do itself.
 You also need to provide it your **username** and **password**,
 so that, it logs in automatically
 
-
-
-other words *italic* with Markdown. You can even [link to Google!](http://google.com)
